@@ -1,6 +1,5 @@
 {
-  "Post": {
-    "data":
+  "data":
     [
         {
     "id": 1,
@@ -101,7 +100,5 @@
     "isFriendly": false
   }
       ]
-    
-    }
 }
    
